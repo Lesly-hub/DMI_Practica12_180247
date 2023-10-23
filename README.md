@@ -29,7 +29,7 @@ Se utiliza para crear un panel de navegación lateral (también conocido como me
 ### 3. Barra de Navegación Inferior- BottomNavigationBar
 Es un widget que se utiliza para crear una barra de navegación en la parte inferior de la pantalla de la aplicación. Esta barra suele tener íconos o etiquetas y permite a los usuarios cambiar entre diferentes secciones o vistas de la aplicación de manera rápida y sencilla. 
 
-### `media_list.dart`
+### 4. `media_list.dart`
 
 Este archivo contiene la definición de la clase `MediaList`, que es un StatefulWidget que representa una lista de medios.
 
