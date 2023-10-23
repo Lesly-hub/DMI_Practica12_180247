@@ -1,8 +1,8 @@
-# MovieApp-200327
+# MovieApp-180247
 ![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://i.postimg.cc/15q3LFXF/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)
 ## Información General
 
-- **Creado por:** Eliel Diaz Galindo
+- **Creado por:** Lesly Yareth Hernandez Bonilla
 - **Asignatura:** Desarrollo Movil Integral
 - **Grado:** 10
 - **Grupo:** A
@@ -10,9 +10,7 @@
 
   ## Capturas de Pantalla
 <p align="center">
- <img src="https://github.com/Eliel-Kun-RL15/DMI_PRACTICA11_200327/blob/main/pantalla6.jpg" width="300" alt="Captura de Pantalla 1">
- <img src="https://github.com/Eliel-Kun-RL15/DMI_PRACTICA11_200327/blob/main/pantalla4.jpg" width="200" alt="Captura de Pantalla 2">
- <img src="https://github.com/Eliel-Kun-RL15/DMI_PRACTICA11_200327/blob/main/pantalla5.jpg" width="200" alt="Captura de Pantalla 3">
+
 </p>
 
 ## Descripción del Proyecto
